@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 p{
+    margin: 0;
+}
+.Logo{
+    width: 210px;
+    height: 50px;
+    margin-left: 70px;
+}
+.ItemList{
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+}
+.ItemList a{
+   margin-left: 40px;
+}
+.ItemList a:hover{
+    color: #5E3BEE;
+}
+.connersite{
+    padding: 17px 27px;
+    border: 1px solid #5E3BEE ;
+    margin-right: 60px;
+    color: #5E3BEE;
+}
+/* banner part strat  */
+.section-1{
+    background-color: #F5FCFF;
+    margin-bottom: 120px;
+}
+.fast-list{
+    max-width: 790px;
+    margin: 0 auto;
+   margin-top: 200px;
+   margin-bottom: 250px;
+}
+.fast-list h1{
+    font-size: 74px;
+    font-family: "Roboto", sans-serif;
+}
+.fast-list p{
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+}
+.p-1{
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 50px;
+}
+
+.fast-list h1 span{
+    color: #5E3BEE;
+}
+.buton{
+    padding: 20px 27px ;
+    background-color: #5E3BEE;
+    color:white;
+    border-radius: 10px;
+    
+}
+.banner img{
+    width: 800px;
+    height: 600px;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+/* banner part End */
+
+/* Gourp part strat  */
+
+.section-2{
+    max-width: 1740px;
+    font-family:"Roboto", sans-serif ;
+    margin: 0 auto;
+    margin-bottom: 150px;
+}
+
+/* .fatterPart{
+  margin: 0 auto;
+} */
+.fatterPart p{
+    font-size: 21px;
+}
+.fatterPart h1{
+    font-size: 64px;
+}
+.box-1{
+    width: 405px;
+    height: 350px;
+    background-color: #F5FCFF;
+    margin-top: 70px;
+}
+.box-1 h3{
+    font-size: 32px;
+    font-family:"Roboto", sans-serif  ;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.box-1 p{
+    font-size: 21px;
+    font-family:"Roboto", sans-serif ;
+    margin-left: 15px;
+}
+/* Gourp part Eand  */
+
+/* section-3 strat  */
+
+.section-3{
+    max-width: 1700px;
+    margin: 0 auto;
+    font-family:"Roboto", sans-serif ;
+    margin-bottom: 150px;
+}
+.medImgSide img{
+    width: 750px;
+    height: 900px;
+}
+.peraGrap-part{
+    width: 820px;
+    margin-top: 220px;
+}
+.part-01{
+    font-size: 21px;
+    font-family:"Roboto", sans-serif ;
+}
+.peraGrap-part h1{
+    font-size: 64px;
+    font-family:"Roboto", sans-serif ;
+}
+.peraGrap-part p{
+    font-size: 24px;
+}
+/* section-3 strat  */
+
+
+/* section-4 part strat  */
+.section-4{
+    margin-top: 150px;
+    max-width: 1720px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+}
+.DeshPart{
+    display: flex;
+}
+.A-part{
+    justify-items: center;
+    padding: 20px 25px;
+    background-color: #5E3BEE;
+    color: white;
+    border-radius: 10px;
+}
+.A-part a{
+    color: white;
+    
+}
+.CardItem{
+    margin-top:90px ;
+    font-family: "Roboto", sans-serif;
+}
+.CardItem h3{
+    font-size:32px;
+    font-family:"Roboto", sans-serif ;
+}
+.CardItem p{
+    font-size: 22px;
+}
+.pat-1{
+    border-bottom: 1px solid black;
+    font-size: 1px;
+    display: inline-block;
+}
+/* section-4 part end  */
+
+
+/* section-5 part strat  */
+.section-5{
+    background-color: #F5FCFF;
+}
+.box-01{
+    max-width: 1720px;
+    font-family: "Roboto", sans-serif;
+    margin: 0 auto;
+    padding: 100px 0px;
+}
+.box-02 p{
+    font-size: 21px;
+}
+.box-02 h1{
+    font-size: 64px;
+}
+.box-03{
+    width: 550px;
+    height: 360px;
+    border: 2px solid #5E3BEE;
+    margin-top: 70px;
+}
+.start{
+    display: inline-block;
+    padding: 40px 30px;
+    margin-bottom: 20px;
+}
+.box-03 p{
+    font-size: 21px;
+    padding: 0 30px;
+    width: 520px;
+}
+.box-04 img{
+    width: 70px;
+    height: 70px;
+}
+.box-04{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.part-012{
+    font-size:21px ;
+    color:#282938;
+}
+.box-04{
+    font-size: 21px;
+}
+/* section-5 part end  */
+/* section-6 part strat  */
+.listeSide-1{
+    margin-top: 150px;
+    text-align: center;
+    font-family: "Roboto", sans-serif ;
+}
+.parsonal{
+    font-size: 21px;
+}
+.parsonal-3{
+    font-size: 64px;
+}
+.parsonal-2{
+    font-size: 24px;
+}
+.listeSIte-2{
+    max-width: 1000px;
+    margin-top: 100px;
+}
+
+/* section-6 part end  */
+/* section-7 part strat */
+.section-7{
+    background-color: #F5FCFF;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.FotterPart{
+    max-width: 1730px;
+}
+.FotterPart-1{
+    margin: 0 auto;
+    max-width: 1730px;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.FotterPart-1 img{
+    width: 150px;
+    height: 50px;
+    margin-top: 60px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.Fotterprt-2 li{
+   display: inline-block;
+   padding: 60px 20px;
+   color: black;
+}
+.Fotterprt-2 a{
+    color: #282938;
+    font-size: 21px;
+    font-family:"Roboto", sans-serif ;
+}
+.Fotterprt-3 li{
+    display:inline-block;
+    padding: 60px 10px;
+}
+.Fotterprt-4{
+    display: flex;
+    margin: 0 auto;
+}
+.footterPart-5{
+    padding: 70px 100px;
+    font-size: 18px;
+}
+.Fotterprt-6 li{
+    display:inline-block;
+    padding: 70px 10px;
+    font-size: 18px;
+}
+.Fotterprt-6 a{
+    color:black;
+}
+/* section-7 part End */
+
+
+
